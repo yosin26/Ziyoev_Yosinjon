@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ziyoe\\source\\repos\\Ziyoev_Yosinjon\\lab_1\\Lesson1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7310E01F-B5BC-4383-B086-F43B29447C3E}|Lesson1.csproj|c:\\users\\ziyoe\\source\\repos\\ziyoev_yosinjon\\lab_1\\lesson1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7310E01F-B5BC-4383-B086-F43B29447C3E}|Lesson1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7310E01F-B5BC-4383-B086-F43B29447C3E}|Lesson1.csproj|c:\\users\\ziyoe\\source\\repos\\ziyoev_yosinjon\\lab_1\\lesson1\\banksimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7310E01F-B5BC-4383-B086-F43B29447C3E}|Lesson1.csproj|solutionrelative:banksimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7310E01F-B5BC-4383-B086-F43B29447C3E}|Lesson1.csproj|c:\\users\\ziyoe\\source\\repos\\ziyoev_yosinjon\\lab_1\\lesson1\\typeofbankaccount\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7310E01F-B5BC-4383-B086-F43B29447C3E}|Lesson1.csproj|solutionrelative:typeofbankaccount\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7310E01F-B5BC-4383-B086-F43B29447C3E}|Lesson1.csproj|c:\\users\\ziyoe\\source\\repos\\ziyoev_yosinjon\\lab_1\\lesson1\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7310E01F-B5BC-4383-B086-F43B29447C3E}|Lesson1.csproj|solutionrelative:transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7310E01F-B5BC-4383-B086-F43B29447C3E}|Lesson1.csproj|c:\\users\\ziyoe\\source\\repos\\ziyoev_yosinjon\\lab_1\\lesson1\\typeofbankaccount\\giftcardaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7310E01F-B5BC-4383-B086-F43B29447C3E}|Lesson1.csproj|solutionrelative:typeofbankaccount\\giftcardaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7310E01F-B5BC-4383-B086-F43B29447C3E}|Lesson1.csproj|c:\\users\\ziyoe\\source\\repos\\ziyoev_yosinjon\\lab_1\\lesson1\\typeofbankaccount\\lineofcreditaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7310E01F-B5BC-4383-B086-F43B29447C3E}|Lesson1.csproj|solutionrelative:typeofbankaccount\\lineofcreditaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7310E01F-B5BC-4383-B086-F43B29447C3E}|Lesson1.csproj|c:\\users\\ziyoe\\source\\repos\\ziyoev_yosinjon\\lab_1\\lesson1\\typeofbankaccount\\interestearningaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7310E01F-B5BC-4383-B086-F43B29447C3E}|Lesson1.csproj|solutionrelative:typeofbankaccount\\interestearningaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7310E01F-B5BC-4383-B086-F43B29447C3E}|Lesson1.csproj|c:\\users\\ziyoe\\source\\repos\\ziyoev_yosinjon\\lab_1\\lesson1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7310E01F-B5BC-4383-B086-F43B29447C3E}|Lesson1.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankSimulation.cs",
+              "DocumentMoniker": "C:\\Users\\ziyoe\\source\\repos\\Ziyoev_Yosinjon\\lab_1\\Lesson1\\BankSimulation.cs",
+              "RelativeDocumentMoniker": "BankSimulation.cs",
+              "ToolTip": "C:\\Users\\ziyoe\\source\\repos\\Ziyoev_Yosinjon\\lab_1\\Lesson1\\BankSimulation.cs",
+              "RelativeToolTip": "BankSimulation.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:53:37.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ziyoe\\source\\repos\\Ziyoev_Yosinjon\\lab_1\\Lesson1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ziyoe\\source\\repos\\Ziyoev_Yosinjon\\lab_1\\Lesson1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:53:37.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GiftCardAccount.cs",
+              "DocumentMoniker": "C:\\Users\\ziyoe\\source\\repos\\Ziyoev_Yosinjon\\lab_1\\Lesson1\\TypeOfBankAccount\\GiftCardAccount.cs",
+              "RelativeDocumentMoniker": "TypeOfBankAccount\\GiftCardAccount.cs",
+              "ToolTip": "C:\\Users\\ziyoe\\source\\repos\\Ziyoev_Yosinjon\\lab_1\\Lesson1\\TypeOfBankAccount\\GiftCardAccount.cs",
+              "RelativeToolTip": "TypeOfBankAccount\\GiftCardAccount.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:53:37.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\ziyoe\\source\\repos\\Ziyoev_Yosinjon\\lab_1\\Lesson1\\TypeOfBankAccount\\BankAccount.cs",
+              "RelativeDocumentMoniker": "TypeOfBankAccount\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\ziyoe\\source\\repos\\Ziyoev_Yosinjon\\lab_1\\Lesson1\\TypeOfBankAccount\\BankAccount.cs",
+              "RelativeToolTip": "TypeOfBankAccount\\BankAccount.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:53:37.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\ziyoe\\source\\repos\\Ziyoev_Yosinjon\\lab_1\\Lesson1\\Transaction.cs",
+              "RelativeDocumentMoniker": "Transaction.cs",
+              "ToolTip": "C:\\Users\\ziyoe\\source\\repos\\Ziyoev_Yosinjon\\lab_1\\Lesson1\\Transaction.cs",
+              "RelativeToolTip": "Transaction.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:53:37.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LineOfCreditAccount.cs",
+              "DocumentMoniker": "C:\\Users\\ziyoe\\source\\repos\\Ziyoev_Yosinjon\\lab_1\\Lesson1\\TypeOfBankAccount\\LineOfCreditAccount.cs",
+              "RelativeDocumentMoniker": "TypeOfBankAccount\\LineOfCreditAccount.cs",
+              "ToolTip": "C:\\Users\\ziyoe\\source\\repos\\Ziyoev_Yosinjon\\lab_1\\Lesson1\\TypeOfBankAccount\\LineOfCreditAccount.cs",
+              "RelativeToolTip": "TypeOfBankAccount\\LineOfCreditAccount.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:53:37.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InterestEarningAccount.cs",
+              "DocumentMoniker": "C:\\Users\\ziyoe\\source\\repos\\Ziyoev_Yosinjon\\lab_1\\Lesson1\\TypeOfBankAccount\\InterestEarningAccount.cs",
+              "RelativeDocumentMoniker": "TypeOfBankAccount\\InterestEarningAccount.cs",
+              "ToolTip": "C:\\Users\\ziyoe\\source\\repos\\Ziyoev_Yosinjon\\lab_1\\Lesson1\\TypeOfBankAccount\\InterestEarningAccount.cs",
+              "RelativeToolTip": "TypeOfBankAccount\\InterestEarningAccount.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwBsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:53:37.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\ziyoe\\source\\repos\\Ziyoev_Yosinjon\\lab_1\\Lesson1\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Users\\ziyoe\\source\\repos\\Ziyoev_Yosinjon\\lab_1\\Lesson1\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:53:37.151Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
