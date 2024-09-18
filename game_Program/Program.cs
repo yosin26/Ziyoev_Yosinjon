@@ -16,6 +16,7 @@ class Program
             .BuildServiceProvider();
 
         // Получаем экземпляры для ввода и вывода
+        //Проверка загрузки
         var input = serviceProvider.GetService<IUserInput>();
         var output = serviceProvider.GetService<IOutput>();
 
