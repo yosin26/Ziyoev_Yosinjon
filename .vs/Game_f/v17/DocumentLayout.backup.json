@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\\u0420\u0435\u0437\u0435\u0440\u0432_\u0434\u0440\u0430\u0439\u0432\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Game_f\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50EBBA97-1785-466B-ADFF-235466628925}|Game_f\\Game_f.csproj|m:\\\u0440\u0435\u0437\u0435\u0440\u0432_\u0434\u0440\u0430\u0439\u0432\\c#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\game_f\\game_f\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EBBA97-1785-466B-ADFF-235466628925}|Game_f\\Game_f.csproj|solutionrelative:game_f\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEA5A79-AC00-4E86-8EAB-E93A2C367F8A}|game_Program\\game_Program.csproj|m:\\\u0440\u0435\u0437\u0435\u0440\u0432_\u0434\u0440\u0430\u0439\u0432\\c#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\game_f\\game_program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFEA5A79-AC00-4E86-8EAB-E93A2C367F8A}|game_Program\\game_Program.csproj|solutionrelative:game_program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EBBA97-1785-466B-ADFF-235466628925}|Game_f\\Game_f.csproj|m:\\\u0440\u0435\u0437\u0435\u0440\u0432_\u0434\u0440\u0430\u0439\u0432\\c#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\game_f\\game_f\\randomnumbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EBBA97-1785-466B-ADFF-235466628925}|Game_f\\Game_f.csproj|solutionrelative:game_f\\randomnumbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EBBA97-1785-466B-ADFF-235466628925}|Game_f\\Game_f.csproj|m:\\\u0440\u0435\u0437\u0435\u0440\u0432_\u0434\u0440\u0430\u0439\u0432\\c#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\game_f\\game_f\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EBBA97-1785-466B-ADFF-235466628925}|Game_f\\Game_f.csproj|solutionrelative:game_f\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EBBA97-1785-466B-ADFF-235466628925}|Game_f\\Game_f.csproj|m:\\\u0440\u0435\u0437\u0435\u0440\u0432_\u0434\u0440\u0430\u0439\u0432\\c#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\game_f\\game_f\\irandomnumbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EBBA97-1785-466B-ADFF-235466628925}|Game_f\\Game_f.csproj|solutionrelative:game_f\\irandomnumbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EBBA97-1785-466B-ADFF-235466628925}|Game_f\\Game_f.csproj|m:\\\u0440\u0435\u0437\u0435\u0440\u0432_\u0434\u0440\u0430\u0439\u0432\\c#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\game_f\\game_f\\consoleinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EBBA97-1785-466B-ADFF-235466628925}|Game_f\\Game_f.csproj|solutionrelative:game_f\\consoleinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EBBA97-1785-466B-ADFF-235466628925}|Game_f\\Game_f.csproj|m:\\\u0440\u0435\u0437\u0435\u0440\u0432_\u0434\u0440\u0430\u0439\u0432\\c#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\game_f\\game_f\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EBBA97-1785-466B-ADFF-235466628925}|Game_f\\Game_f.csproj|solutionrelative:game_f\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EBBA97-1785-466B-ADFF-235466628925}|Game_f\\Game_f.csproj|m:\\\u0440\u0435\u0437\u0435\u0440\u0432_\u0434\u0440\u0430\u0439\u0432\\c#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\game_f\\game_f\\consoleoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EBBA97-1785-466B-ADFF-235466628925}|Game_f\\Game_f.csproj|solutionrelative:game_f\\consoleoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EBBA97-1785-466B-ADFF-235466628925}|Game_f\\Game_f.csproj|m:\\\u0440\u0435\u0437\u0435\u0440\u0432_\u0434\u0440\u0430\u0439\u0432\\c#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\game_f\\game_f\\ioutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EBBA97-1785-466B-ADFF-235466628925}|Game_f\\Game_f.csproj|solutionrelative:game_f\\ioutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EBBA97-1785-466B-ADFF-235466628925}|Game_f\\Game_f.csproj|m:\\\u0440\u0435\u0437\u0435\u0440\u0432_\u0434\u0440\u0430\u0439\u0432\\c#\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\game_f\\game_f\\iuserinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EBBA97-1785-466B-ADFF-235466628925}|Game_f\\Game_f.csproj|solutionrelative:game_f\\iuserinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "M:\\\u0420\u0435\u0437\u0435\u0440\u0432_\u0434\u0440\u0430\u0439\u0432\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Game_f\\Game_f\\User.cs",
+              "RelativeDocumentMoniker": "Game_f\\User.cs",
+              "ToolTip": "M:\\\u0420\u0435\u0437\u0435\u0440\u0432_\u0434\u0440\u0430\u0439\u0432\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Game_f\\Game_f\\User.cs",
+              "RelativeToolTip": "Game_f\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:49:15.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameSettings.cs",
+              "DocumentMoniker": "M:\\\u0420\u0435\u0437\u0435\u0440\u0432_\u0434\u0440\u0430\u0439\u0432\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Game_f\\Game_f\\GameSettings.cs",
+              "RelativeDocumentMoniker": "Game_f\\GameSettings.cs",
+              "ToolTip": "M:\\\u0420\u0435\u0437\u0435\u0440\u0432_\u0434\u0440\u0430\u0439\u0432\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Game_f\\Game_f\\GameSettings.cs",
+              "RelativeToolTip": "Game_f\\GameSettings.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:47:04.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RandomNumberGenerator.cs",
+              "DocumentMoniker": "M:\\\u0420\u0435\u0437\u0435\u0440\u0432_\u0434\u0440\u0430\u0439\u0432\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Game_f\\Game_f\\RandomNumberGenerator.cs",
+              "RelativeDocumentMoniker": "Game_f\\RandomNumberGenerator.cs",
+              "ToolTip": "M:\\\u0420\u0435\u0437\u0435\u0440\u0432_\u0434\u0440\u0430\u0439\u0432\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Game_f\\Game_f\\RandomNumberGenerator.cs",
+              "RelativeToolTip": "Game_f\\RandomNumberGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:45:19.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "M:\\\u0420\u0435\u0437\u0435\u0440\u0432_\u0434\u0440\u0430\u0439\u0432\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Game_f\\game_Program\\Program.cs",
+              "RelativeDocumentMoniker": "game_Program\\Program.cs",
+              "ToolTip": "M:\\\u0420\u0435\u0437\u0435\u0440\u0432_\u0434\u0440\u0430\u0439\u0432\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Game_f\\game_Program\\Program.cs",
+              "RelativeToolTip": "game_Program\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:14:24.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "M:\\\u0420\u0435\u0437\u0435\u0440\u0432_\u0434\u0440\u0430\u0439\u0432\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Game_f\\Game_f\\Game.cs",
+              "RelativeDocumentMoniker": "Game_f\\Game.cs",
+              "ToolTip": "M:\\\u0420\u0435\u0437\u0435\u0440\u0432_\u0434\u0440\u0430\u0439\u0432\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Game_f\\Game_f\\Game.cs",
+              "RelativeToolTip": "Game_f\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:51:50.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRandomNumberGenerator.cs",
+              "DocumentMoniker": "M:\\\u0420\u0435\u0437\u0435\u0440\u0432_\u0434\u0440\u0430\u0439\u0432\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Game_f\\Game_f\\IRandomNumberGenerator.cs",
+              "RelativeDocumentMoniker": "Game_f\\IRandomNumberGenerator.cs",
+              "ToolTip": "M:\\\u0420\u0435\u0437\u0435\u0440\u0432_\u0434\u0440\u0430\u0439\u0432\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Game_f\\Game_f\\IRandomNumberGenerator.cs",
+              "RelativeToolTip": "Game_f\\IRandomNumberGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:43:35.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsoleOutput.cs",
+              "DocumentMoniker": "M:\\\u0420\u0435\u0437\u0435\u0440\u0432_\u0434\u0440\u0430\u0439\u0432\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Game_f\\Game_f\\ConsoleOutput.cs",
+              "RelativeDocumentMoniker": "Game_f\\ConsoleOutput.cs",
+              "ToolTip": "M:\\\u0420\u0435\u0437\u0435\u0440\u0432_\u0434\u0440\u0430\u0439\u0432\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Game_f\\Game_f\\ConsoleOutput.cs",
+              "RelativeToolTip": "Game_f\\ConsoleOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:42:30.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsoleInput.cs",
+              "DocumentMoniker": "M:\\\u0420\u0435\u0437\u0435\u0440\u0432_\u0434\u0440\u0430\u0439\u0432\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Game_f\\Game_f\\ConsoleInput.cs",
+              "RelativeDocumentMoniker": "Game_f\\ConsoleInput.cs",
+              "ToolTip": "M:\\\u0420\u0435\u0437\u0435\u0440\u0432_\u0434\u0440\u0430\u0439\u0432\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Game_f\\Game_f\\ConsoleInput.cs",
+              "RelativeToolTip": "Game_f\\ConsoleInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:40:50.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IOutput.cs",
+              "DocumentMoniker": "M:\\\u0420\u0435\u0437\u0435\u0440\u0432_\u0434\u0440\u0430\u0439\u0432\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Game_f\\Game_f\\IOutput.cs",
+              "RelativeDocumentMoniker": "Game_f\\IOutput.cs",
+              "ToolTip": "M:\\\u0420\u0435\u0437\u0435\u0440\u0432_\u0434\u0440\u0430\u0439\u0432\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Game_f\\Game_f\\IOutput.cs",
+              "RelativeToolTip": "Game_f\\IOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:36:02.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserInput.cs",
+              "DocumentMoniker": "M:\\\u0420\u0435\u0437\u0435\u0440\u0432_\u0434\u0440\u0430\u0439\u0432\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Game_f\\Game_f\\IUserInput.cs",
+              "RelativeDocumentMoniker": "Game_f\\IUserInput.cs",
+              "ToolTip": "M:\\\u0420\u0435\u0437\u0435\u0440\u0432_\u0434\u0440\u0430\u0439\u0432\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Game_f\\Game_f\\IUserInput.cs",
+              "RelativeToolTip": "Game_f\\IUserInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:32:49.039Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

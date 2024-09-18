@@ -1,0 +1,11 @@
+M:\Резерв драйв\C#\Проекты\Game_f\Game_f\bin\Debug\net8.0\Game_f.deps.json
+M:\Резерв драйв\C#\Проекты\Game_f\Game_f\bin\Debug\net8.0\Game_f.dll
+M:\Резерв драйв\C#\Проекты\Game_f\Game_f\bin\Debug\net8.0\Game_f.pdb
+M:\Резерв драйв\C#\Проекты\Game_f\Game_f\obj\Debug\net8.0\Game_f.GeneratedMSBuildEditorConfig.editorconfig
+M:\Резерв драйв\C#\Проекты\Game_f\Game_f\obj\Debug\net8.0\Game_f.AssemblyInfoInputs.cache
+M:\Резерв драйв\C#\Проекты\Game_f\Game_f\obj\Debug\net8.0\Game_f.AssemblyInfo.cs
+M:\Резерв драйв\C#\Проекты\Game_f\Game_f\obj\Debug\net8.0\Game_f.csproj.CoreCompileInputs.cache
+M:\Резерв драйв\C#\Проекты\Game_f\Game_f\obj\Debug\net8.0\Game_f.dll
+M:\Резерв драйв\C#\Проекты\Game_f\Game_f\obj\Debug\net8.0\refint\Game_f.dll
+M:\Резерв драйв\C#\Проекты\Game_f\Game_f\obj\Debug\net8.0\Game_f.pdb
+M:\Резерв драйв\C#\Проекты\Game_f\Game_f\obj\Debug\net8.0\ref\Game_f.dll

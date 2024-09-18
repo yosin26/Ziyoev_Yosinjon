@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6W9wFr17R1s=",
+  "success": true,
+  "projectFilePath": "M:\\Резерв_драйв\\C#\\Проекты\\Game_f\\game_Program\\game_Program.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ziyoe\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\ziyoe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
