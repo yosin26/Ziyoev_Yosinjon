@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\CsProjects\\laba2\\calc_laba2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3262DF8E-0F92-4CEE-BA1C-BF2FA02DE936}|calc_laba2\\calc_laba2.csproj|m:\\csprojects\\laba2\\calc_laba2\\calc_laba2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3262DF8E-0F92-4CEE-BA1C-BF2FA02DE936}|calc_laba2\\calc_laba2.csproj|solutionrelative:calc_laba2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3262DF8E-0F92-4CEE-BA1C-BF2FA02DE936}|calc_laba2\\calc_laba2.csproj|m:\\csprojects\\laba2\\calc_laba2\\calc_laba2\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3262DF8E-0F92-4CEE-BA1C-BF2FA02DE936}|calc_laba2\\calc_laba2.csproj|solutionrelative:calc_laba2\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3262DF8E-0F92-4CEE-BA1C-BF2FA02DE936}|calc_laba2\\calc_laba2.csproj|m:\\csprojects\\laba2\\calc_laba2\\calc_laba2\\style\\style_buttons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3262DF8E-0F92-4CEE-BA1C-BF2FA02DE936}|calc_laba2\\calc_laba2.csproj|solutionrelative:calc_laba2\\style\\style_buttons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 145,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "M:\\CsProjects\\laba2\\calc_laba2\\calc_laba2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "calc_laba2\\MainWindow.xaml",
+              "ToolTip": "M:\\CsProjects\\laba2\\calc_laba2\\calc_laba2\\MainWindow.xaml",
+              "RelativeToolTip": "calc_laba2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-09T13:00:22.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 131,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "M:\\CsProjects\\laba2\\calc_laba2\\calc_laba2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "calc_laba2\\MainWindow.xaml",
+              "ToolTip": "M:\\CsProjects\\laba2\\calc_laba2\\calc_laba2\\MainWindow.xaml",
+              "RelativeToolTip": "calc_laba2\\MainWindow.xaml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-09T13:00:30.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "style_buttons.xaml",
+              "DocumentMoniker": "M:\\CsProjects\\laba2\\calc_laba2\\calc_laba2\\Style\\style_buttons.xaml",
+              "RelativeDocumentMoniker": "calc_laba2\\Style\\style_buttons.xaml",
+              "ToolTip": "M:\\CsProjects\\laba2\\calc_laba2\\calc_laba2\\Style\\style_buttons.xaml",
+              "RelativeToolTip": "calc_laba2\\Style\\style_buttons.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-09T14:57:41.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

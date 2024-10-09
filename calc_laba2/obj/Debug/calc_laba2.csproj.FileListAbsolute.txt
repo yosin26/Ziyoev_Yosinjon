@@ -1,0 +1,15 @@
+M:\CsProjects\laba2\calc_laba2\calc_laba2\bin\Debug\calc_laba2.exe.config
+M:\CsProjects\laba2\calc_laba2\calc_laba2\bin\Debug\calc_laba2.exe
+M:\CsProjects\laba2\calc_laba2\calc_laba2\bin\Debug\calc_laba2.pdb
+M:\CsProjects\laba2\calc_laba2\calc_laba2\obj\Debug\calc_laba2.csproj.AssemblyReference.cache
+M:\CsProjects\laba2\calc_laba2\calc_laba2\obj\Debug\MainWindow.baml
+M:\CsProjects\laba2\calc_laba2\calc_laba2\obj\Debug\MainWindow.g.cs
+M:\CsProjects\laba2\calc_laba2\calc_laba2\obj\Debug\App.g.cs
+M:\CsProjects\laba2\calc_laba2\calc_laba2\obj\Debug\calc_laba2_MarkupCompile.cache
+M:\CsProjects\laba2\calc_laba2\calc_laba2\obj\Debug\calc_laba2.g.resources
+M:\CsProjects\laba2\calc_laba2\calc_laba2\obj\Debug\calc_laba2.Properties.Resources.resources
+M:\CsProjects\laba2\calc_laba2\calc_laba2\obj\Debug\calc_laba2.csproj.GenerateResource.cache
+M:\CsProjects\laba2\calc_laba2\calc_laba2\obj\Debug\calc_laba2.csproj.CoreCompileInputs.cache
+M:\CsProjects\laba2\calc_laba2\calc_laba2\obj\Debug\calc_laba2.exe
+M:\CsProjects\laba2\calc_laba2\calc_laba2\obj\Debug\calc_laba2.pdb
+M:\CsProjects\laba2\calc_laba2\calc_laba2\obj\Debug\Style\style_buttons.baml
