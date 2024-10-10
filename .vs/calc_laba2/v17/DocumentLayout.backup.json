@@ -11,8 +11,12 @@
       "RelativeMoniker": "D:0:0:{3262DF8E-0F92-4CEE-BA1C-BF2FA02DE936}|calc_laba2\\calc_laba2.csproj|solutionrelative:calc_laba2\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3262DF8E-0F92-4CEE-BA1C-BF2FA02DE936}|calc_laba2\\calc_laba2.csproj|m:\\csprojects\\laba2\\calc_laba2\\calc_laba2\\style\\style_buttons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3262DF8E-0F92-4CEE-BA1C-BF2FA02DE936}|calc_laba2\\calc_laba2.csproj|solutionrelative:calc_laba2\\style\\style_buttons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{3262DF8E-0F92-4CEE-BA1C-BF2FA02DE936}|calc_laba2\\calc_laba2.csproj|M:\\CsProjects\\laba2\\calc_laba2\\calc_laba2\\Style\\style_buttons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3262DF8E-0F92-4CEE-BA1C-BF2FA02DE936}|calc_laba2\\calc_laba2.csproj|solutionrelative:calc_laba2\\Style\\style_buttons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3262DF8E-0F92-4CEE-BA1C-BF2FA02DE936}|calc_laba2\\calc_laba2.csproj|M:\\CsProjects\\laba2\\calc_laba2\\calc_laba2\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3262DF8E-0F92-4CEE-BA1C-BF2FA02DE936}|calc_laba2\\calc_laba2.csproj|solutionrelative:calc_laba2\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +26,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 145,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "M:\\CsProjects\\laba2\\calc_laba2\\calc_laba2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "calc_laba2\\MainWindow.xaml.cs",
+              "ToolTip": "M:\\CsProjects\\laba2\\calc_laba2\\calc_laba2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "calc_laba2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:00:37.539Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -50,7 +66,7 @@
               "RelativeDocumentMoniker": "calc_laba2\\MainWindow.xaml",
               "ToolTip": "M:\\CsProjects\\laba2\\calc_laba2\\calc_laba2\\MainWindow.xaml",
               "RelativeToolTip": "calc_laba2\\MainWindow.xaml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAACsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-09T13:00:30.958Z",
               "EditorCaption": ""

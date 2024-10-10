@@ -41,6 +41,8 @@
         </Grid.ColumnDefinitions>
 
         <!-- Меню -->
+        
+       <!-- Ntrn-->
         <Menu Grid.Row="0" Grid.ColumnSpan="4" Style="{StaticResource MenuStyle}">
             <MenuItem Header="Режимы" Style="{StaticResource MenuItemStyle}">
                 <MenuItem Header="Обычный" Style="{StaticResource MenuItemStyle}"/>
